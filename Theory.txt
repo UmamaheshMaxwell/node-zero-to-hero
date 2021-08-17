@@ -53,3 +53,16 @@ Node.Js allows us to create and handle custome events by using 'events' module.
 
 'events' module includes EventEmitter class which can be used to handle 
 custom events
+
+
+ExpressJS
+---------
+-> This is a webframework for Node.JS
+-> This provides various features that make web developement easy and fast
+
+Advantages
+-----------
+1. Easy to configure
+2. Allows us to define routes
+3. Allows us to create Rest API Server
+4. East to connect to databases such as MongoDB, Redis, MySQL, MSSQL, Postgresql
